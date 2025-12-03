@@ -1,9 +1,8 @@
 # Transformer-Encoder
 
-Name : SHASHANK REDDY DASARI
+Name : SHASHANK REDDY DASARI    
 ID : 7007781569
 
-# ML Transformer Encoder – Homework 5  
 This notebook contains solutions and implementations related to transformer-based architectures, focusing on core encoder mechanisms.
 
 ---
